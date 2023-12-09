@@ -50,17 +50,17 @@
 ### Secciones de la Web:
 
 - #### About:
-  <img align="center" alt="about page" width="300px" style="border:solid 2px white" src="./capturas_secciones_página/about.png" style="padding-right:10px" />  
+  <img align="center" alt="about page" width="300px" style="border:solid 2px white" src="./capturas_secciones_pagina/about.png" style="padding-right:10px" />  
 - #### Categoria Recetas:
-  <img align="center" alt="categoria recetas" width="300px" src="./capturas_secciones_página/categorias_recetas.png" style="padding-right:10px" />  
+  <img align="center" alt="categoria recetas" width="300px" src="./capturas_secciones_pagina/categorias_recetas.png" style="padding-right:10px" />  
 - #### Página de Contacto:
-  <img align="center" alt="contact page" width="300px" src="./capturas_secciones_página/contact.png" style="padding-right:10px" />  
+  <img align="center" alt="contact page" width="300px" src="./capturas_secciones_pagina/contact.png" style="padding-right:10px" />  
 - #### Página Principal:
-  <img align="center" alt="home page" width="300px" src="./capturas_secciones_página//home.png" style="padding-right:10px" />    
+  <img align="center" alt="home page" width="300px" src="./capturas_secciones_pagina//home.png" style="padding-right:10px" />    
 - #### Página Categoría Recetas:
-  <img align="center" alt="about page" width="300px" src="./capturas_secciones_página/pagina_categoria_recetas.png" style="padding-right:10px" />    
+  <img align="center" alt="about page" width="300px" src="./capturas_secciones_pagina/pagina_categoria_recetas.png" style="padding-right:10px" />    
 - #### Página Receta Individual:
-  <img align="center" alt="about page" widthabout.="300px" src="./capturas_secciones_página/pagina_receta_individual.png" style="padding-right:10px" />    
+  <img align="center" alt="about page" widthabout.="300px" src="./capturas_secciones_pagina/pagina_receta_individual.png" style="padding-right:10px" />    
   
   
 ### Funcionalidades Principales:
