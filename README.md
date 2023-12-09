@@ -91,7 +91,7 @@ Write about setting up the working environment for your project.
 
 | No | File Name | Details 
 |----|------------|-------|
-| 1  | index | Entry point
+| 1  | index.html | Entry point
 
 ### Languages and Tools:
 
@@ -106,3 +106,5 @@ Write about setting up the working environment for your project.
 <img align="left" width="26px" alt="devicondev" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" width="26px" alt="devicondev" src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" />
 
+<br />
+<br />
