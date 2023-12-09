@@ -454,25 +454,24 @@ Hero
 
   object-fit: cover;
   width: 100%
+  
 }
 .hero-container {
-
+  align-items: center;
   background: rgba(0, 0, 0, 0.4);
+  border-radius: var(--borderRadius);
+  display: flex;
   height: 100%;
+  justify-content: center;
   left: 0;
   position: absolute;
   top: 0;
   width: 100%;
-  border-radius: var(--borderRadius);
-  align-items: center;
-  display: flex;
-  justify-content: center;
-
 }
 
 .hero-text {
-  text-align: center;
   color: var(--white);
+  text-align: center;
 }
 
 @media screen and (min-width: 768px) {
@@ -491,18 +490,14 @@ Recipes
 */
 
 .recipes-container {
-
   display: grid;
   gap: 2rem 1rem;
-  border: 4px solid red;
 }
 
 .tags-container {
-
-  border: 2px solid blue;
-  order: 1;
   display: flex;
   flex-direction: column;
+  order: 1;
   padding-bottom: 3rem;
 }
 
@@ -510,24 +505,22 @@ Recipes
   display: grid;
   gap: 2rem 1rem;
   padding-bottom: 3rem;
-  border: 2px solid green;
 }
 
 .tags-container h4 {
-  margin-bottom: 0.5rem;
   font-weight: 500;
+  margin-bottom: 0.5rem;
 }
 
 .tags-list {
-
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
 
 .tags-list a {
-  text-transform: capitalize;
-  display: block;
   color: var(--grey-500);
+  display: block;
+  text-transform: capitalize;
   transition: var(--transition);
 }
 
@@ -542,24 +535,23 @@ Recipes
 }
 
 .recipe-img {
-
-  height: 15rem;
   border-radius: var(--borderRadius);
+  height: 15rem;
   margin-bottom: 1rem;
 }
 
 .recipe h5 {
-  margin-bottom: 0;
-  line-height: 1;
   color: var(--grey-700);
+  line-height: 1;
+  margin-bottom: 0;
 }
 
 .recipe p {
-  margin-bottom: 0;
-  line-height: 0;
-  margin-top: 0.5rem;
   color: var(--grey-500);
   letter-spacing: var(--letterSpacing);
+  line-height: 0;
+  margin-bottom: 0;
+  margin-top: 0.5rem;
 }
 /* Small Size Screens */
 @media screen and (min-width:576px) {
@@ -610,8 +602,8 @@ Error
 */
 
 .error-page {
-  text-align: center;
   padding-top: 5rem;
+  text-align: center;
 }
 
 .error-page h1 {
@@ -620,9 +612,42 @@ Error
 
 /*
 =============== 
-Navbar
+About
 ===============
 */
+
+.about-page h2{
+  font-weight: bold;
+  text-transform: none;
+}
+
+.about-page {
+  display: grid;
+  gap: 2rem 4rem;
+  padding-bottom: 3rem;
+}
+.about-img {
+  border-radius: var(--borderRadius);
+  height: 300px;
+}
+
+.featured-title {
+  text-align: center;
+}
+
+@media screen and (min-width: 992px) {
+
+  .about-page {
+
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 400px;
+  }
+
+  .about-img {
+    height: 100%;
+  }
+}
 
 /*
 =============== 
