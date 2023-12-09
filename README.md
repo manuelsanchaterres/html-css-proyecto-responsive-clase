@@ -64,7 +64,7 @@
   
   
 ### Funcionalidades Principales:
-1. [Página Principal](http://127.0.0.1:5500/html-css-proyecto-responsive-clase/html/404.html)
+1. [Página Principal](http://127.0.0.1:5500/html-css-proyecto-responsive-clase/html/index.html)
 2. [Página Contacto](http://127.0.0.1:5500/html-css-proyecto-responsive-clase/html/contact.html)
 3. [Página Categorías Recetas](http://127.0.0.1:5500/html-css-proyecto-responsive-clase/html/tags.html)
 4. [Página Categoría Individual](http://127.0.0.1:5500/html-css-proyecto-responsive-clase/html/tag-template.html)
