@@ -60,7 +60,7 @@
 - #### Página Categoría Recetas:
   <img align="center" alt="about page" width="300px" src="./capturas_secciones_pagina/pagina_categoria_recetas.png" style="padding-right:10px" />    
 - #### Página Receta Individual:
-  <img align="center" alt="about page" widthabout.="300px" src="./capturas_secciones_pagina/pagina_receta_individual.png" style="padding-right:10px" />    
+  <img align="center" alt="about page" width="300px" src="./capturas_secciones_pagina/pagina_receta_individual.png" style="padding-right:10px" />    
   
   
 ### Funcionalidades Principales:
